@@ -1,0 +1,50 @@
+body{
+	background-color:#f4f4f4;
+	color:#555;
+	font-family:Arial, Helvetica, sans-seirf;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+#main-header{
+	background-image:url('../black.jpg');
+	color:#fff;
+	font-size:40px;
+	height:50px;
+}
+
+#navbar li{
+	display:inline;
+}
+
+#navbar a{
+	color:MediumSeaGreen;
+	text-decoration: none;
+	font-size:18px;
+	padding-right:220px;
+}
+
+#showcase{
+	background-image:url('../qq_header.jpg');
+	background-repeat: repeat;
+	background-position: center;
+	height:800px;
+	margin-bottom:10px;
+	text-align:center;
+}
+
+#showcase h1{
+		color:white;
+		font-size:50px;
+		line-height:50px;
+		line-height:8em;
+		padding-top:30px;
+}
+
+

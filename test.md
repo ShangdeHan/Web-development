@@ -1,3 +1,3 @@
 #### Hello 🌿
 
-![Shangde's github stats](https://github-readme-stats.vercel.app/api?username=silkthyme&show_icons=true&hide_border=false)
+![shangde's GitHub stats](https://github-readme-stats.vercel.app/api?username=shangde&show_icons=true&theme=radical)
